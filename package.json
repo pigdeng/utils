@@ -1,6 +1,6 @@
 {
   "name": "utils",
-  "version": "1.6.1",
+  "version": "1.0.0",
   "description": "前端业务代码工具库",
   "main": "min/utils.min.js",
   "types": "index.d.ts",
@@ -19,7 +19,7 @@
     "tool",
     "common-util"
   ],
-  "author": "SlaneYang",
+  "author": "BigDeng",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
